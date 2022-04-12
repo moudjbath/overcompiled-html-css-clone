@@ -1,0 +1,55 @@
+    body {
+        background-color: hotpink;
+        color: black;
+    }
+    
+    .tout {
+        width: 670px;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    
+    .img {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .foot {
+        border-top: solid 2px;
+        margin-top: 400px;
+    }
+    
+    .div1 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .div2 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .div3 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .div4 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .div5 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .div6 {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    nav {
+        margin-top: 40px;
+        border-spacing: 10px;
+    }
